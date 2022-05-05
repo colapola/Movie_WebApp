@@ -59,7 +59,7 @@ with row0_2:
 _, row1_1, _ = st.columns((.1, 3.2, .1))
 with row1_1:
     st.markdown("Welcome to Movie Lover! This is a place where you can discover tons of movie from every genres and hopefully, by spending time on this web, you could find the answer to the question: 'What movie I'm gonna watch this evening?")
-    st.markdown("You can find the source code in [my GitHub repository.]()")
+    st.markdown("You can find the source code in [my GitHub repository.](https://github.com/colapola/Movie_WebApp)")
     st.markdown('--------------------------')
     st.title('Top Movies')
     st.write('Show top movies base on filter on the side bar.')
